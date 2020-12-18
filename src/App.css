@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.search{
+  color:red;
+}
+body{
+  background-color:#CDE3F9;
+}
+li{
+  list-style:none;
+}
+h2{
+  margin-bottom:-2px;
+}
+button{
+  border-radius:8px;
+  background-color:pink;
+  padding:5px 5px;
+}
+input{
+  padding:3px 3px;
+   border-radius:8px;
+   margin-bottom:4px;
+}
